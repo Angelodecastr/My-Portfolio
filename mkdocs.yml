@@ -27,8 +27,10 @@ theme:
   font:
     text: Roboto
     code: Roboto Mono
+
   icon:
     logo: logo
+
   features:
     - content.code.annotate
     - content.code.copy
@@ -37,26 +39,19 @@ theme:
     - navigation.indexes
     - navigation.sections
     - navigation.tabs
-    - header.autohide
-    - navigation.footer
+    - navigation.tabs.sticky
+    - navigation.expand
     - navigation.top
+    - navigation.footer
     - navigation.tracking
     - search.highlight
     - search.share
     - search.suggest
-
-  theme:
-  features:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.instant.preview
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
-    - navigation.top
-    - toc.integrate 
+    - toc.integrate
     - toc.follow
 
 markdown_extensions:
@@ -64,6 +59,7 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
+      toc_depth: 3
   - pymdownx.superfences
   - pymdownx.highlight
   - pymdownx.inlinehilite
@@ -73,7 +69,9 @@ nav:
   - Home: index.md
   - Work Experience: Work Experience.md
   - Skills: Skills.md
-  - Certificatons: Certifications.md
+  - Projects: Projects.md
+  - Certifications: Certifications.md
+  
 
 extra:
   social:
