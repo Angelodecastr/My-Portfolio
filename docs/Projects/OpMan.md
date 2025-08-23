@@ -1,16 +1,18 @@
+#OP Manager Dashboard
+
 <p align="center">
   <img src="../../Projectimg/op manager/op2.png"  alt="OP2" width="900"/>  
 </p>
 
 <p
  style="text-align: left;">
-text here
+This dashboard gives a quick view of system health and performance. It shows CPU usage, disk space, app status, and database alerts—all in one place. I use it to monitor physical and virtual servers,Monitor Disk usage, spot issues fast, and keep everything running smoothly.
 </p>
 
 ---
 <br><br>
 
-
+#Branch ETP Linux Server Monitoring
 
 <p align="center">
   <img src="../../Projectimg/op manager/OP manager1.png"  alt="OP1" width="900"/> 
@@ -18,26 +20,23 @@ text here
 
 <p
  style="text-align: left;">
-text here
+This map-style dashboard shows the live status of Linux servers in the ETP branch. Each icon represents a service or component—green means healthy, yellow is a warning, and orange signals an issue. I use this to quickly spot problems and keep systems stable and secure.
 </p>
 
 
 ---
 <br><br>
 
-
+# OP Manager Workflow
 
 <p align="center">
   <img src="../../Projectimg/op manager/op 3.png"  alt="OP3" width="900"/>  
 </p>
 
-<p
- style="text-align: left;">
-text here
-</p>
 
 
-<br><br>
+
+<br>
 
 
 
@@ -47,5 +46,8 @@ text here
 
 <p
  style="text-align: left;">
-text here
+This workflow performs a daily automated reboot every morning across all branch servers, helping reduce manual tasks and maintain system stability.
 </p>
+
+
+<br><br>

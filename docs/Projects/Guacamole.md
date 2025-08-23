@@ -1,19 +1,18 @@
 
-
+# Guacamole Server
  
 <p align="center">
   <img src="../../Projectimg/Guacamole/guacamole1.png"  alt="Guacamole1" width="600"/>  
 </p>
 
-<p
- style="text-align: left;">
-text here
-</p>
+
 
 ---
 <br><br>
 
 
+
+# Guacamole Dashboard
 
 <p align="center">
   <img src="../../Projectimg/Guacamole/guacamole2.png"  alt="Guacamole2" width="900"/> 
@@ -21,14 +20,14 @@ text here
 
 <p
  style="text-align: left;">
-text here
+This is the Guacamole dashboard I maintain for remote access to replicated branch systems. As guacadmin, I manage access, naming, and grouping for scalability.
 </p>
 
 
 ---
 <br><br>
 
-
+# Connections 
 
 <p align="center">
   <img src="../../Projectimg/Guacamole/guacamole3.png"  alt="Guacamole2" width="900"/> 
@@ -36,6 +35,6 @@ text here
 
 <p
  style="text-align: left;">
-text here
+This is the Guacamole dashboard I maintain for secure, scalable remote access to branch systems. As guacadmin, I manage protocols, naming, and grouping for redundancy and ease of troubleshooting.
 </p>
 
