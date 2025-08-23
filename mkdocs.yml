@@ -73,6 +73,7 @@ nav:
 
   - Projects: 
       - Guacamole: Projects/Guacamole.md
+      - Ansible: Projects/Ansible.md
       - OpManager: Projects/OpMan.md
       - POS Remotely: Projects/Remotely.md
       - Uptime Kuma: Projects/Uptime.md
