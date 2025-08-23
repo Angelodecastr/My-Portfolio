@@ -20,7 +20,7 @@ This dashboard gives a quick view of system health and performance. It shows CPU
 
 <p
  style="text-align: left;">
-This map-style dashboard shows the live status of Linux servers in the ETP branch. Each icon represents a service or component—green means healthy, yellow is a warning, and orange signals an issue. I use this to quickly spot problems and keep systems stable and secure.
+Shown here is a map-style dashboard that visualizes the real-time status of Linux servers in the ETP branch. Color-coded icons represent individual services—green for healthy, yellow for warning, and orange for critical—allowing for quick identification of issues and proactive system management.
 </p>
 
 

@@ -22,7 +22,7 @@ This shows my Docker setup for Remotely and Caddy, running as containers with pe
 
 <p
  style="text-align: left;">
-This is my Remotely dashboard showing real-time device metrics—user, platform, disk, and memory usage—for proactive monitoring and performance management
+On this dashboard, Remotely tracks user, platform, disk, and memory usage to help monitor devices and manage performance proactively.
 </p>
 
 ---

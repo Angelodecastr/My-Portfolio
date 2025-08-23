@@ -38,3 +38,4 @@ This is the Guacamole dashboard I maintain for remote access to replicated branc
 Using Apache Guacamole, you can easily create and manage multiple remote connections through a centralized web interface.
 </p>
 
+<br><br>
