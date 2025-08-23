@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../../Projectimg/op manager/OP2.png"  alt="OP2" width="900"/>  
+  <img src="../../Projectimg/op manager/op2.png"  alt="OP2" width="900"/>  
 </p>
 
 <p
@@ -28,7 +28,7 @@ text here
 
 
 <p align="center">
-  <img src="../../Projectimg/op manager/OP 3.png"  alt="OP3" width="900"/>  
+  <img src="../../Projectimg/op manager/op 3.png"  alt="OP3" width="900"/>  
 </p>
 
 <p
