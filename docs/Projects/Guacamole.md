@@ -35,6 +35,6 @@ This is the Guacamole dashboard I maintain for remote access to replicated branc
 
 <p
  style="text-align: left;">
-This is the Guacamole dashboard I maintain for secure, scalable remote access to branch systems. As guacadmin, I manage protocols, naming, and grouping for redundancy and ease of troubleshooting.
+Using Apache Guacamole, you can easily create and manage multiple remote connections through a centralized web interface.
 </p>
 
