@@ -70,7 +70,12 @@ nav:
   - Home: index.md
   - Work Experience: Work Experience.md
   - Skills: Skills.md
-  - Projects: Projects.md
+  - Projects: 
+      - Guacamole: Projects/Guacamole.md
+      - OpManager: Projects/OpMan.md
+      - Post Remotely: Projects/Remotely.md
+      - Uptime Kuma: Projects/Uptime.md
+  
 
   - Certifications:
         - Fortinet: Certifications/Fortinet.md
