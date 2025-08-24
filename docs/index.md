@@ -9,10 +9,11 @@
 ---
 
 # 🎓 Education
-**Bulacan State University**
 
-Bachelor of Science in Computer Engineering  
-*Malolos, Bulacan — 2019–2023*
+**Bulacan State University**  
+**Bachelor of Science in Computer Engineering**  
+*Malolos, Bulacan*  
+_2019–2023_
 
 
 
