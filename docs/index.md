@@ -7,7 +7,7 @@
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 **Bulacan State University**
 
 Bachelor of Science in Computer Engineering  

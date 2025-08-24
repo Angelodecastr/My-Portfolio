@@ -2,10 +2,9 @@
 
 **🖥️ Infrastructure & System Administration**
 
-- **Operating Systems**: Linux (Ubuntu), Windows Server  
+- **Operating Systems**: Linux (Ubuntu), Windows 
 - **Virtualization**: VMware vSphere ESXi, Host Server Operations  
-- **Networking**: Static IP Assignment
-
+- **Networking**:  Static & Dynamic Routing, Traceroute, Netstat, Nmap, Firewall Rules (UFW/iptables)
 
 **📦 Containerization & Deployment**
 
@@ -15,7 +14,7 @@
 
 **📊 Monitoring & Observability**
 
-- OpManager, NocoDB,Uptime
+- OpManager, NocoDB,Uptime kuma
 
 **🗄️ Storage & Replication**
 
@@ -24,7 +23,7 @@
 
 **🧩 Remote Access & Platform Administration**
 
-- Remotely, Apache Guacamole, VNC ,Anydesk
+- SSH, Remotely, Apache Guacamole, VNC, Anydesk
 
 **🗃️ Databases**
 
