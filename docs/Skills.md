@@ -10,7 +10,7 @@
 
 - Docker Ecosystem: Docker, Docker-Compose
 
-- Web Servers & Automation: Nginx, Caddy, Ansible, Bash Scripting
+- Web Servers & Automation: Nginx, Caddy, Ansible, Powershell scripting
 
 **📊 Monitoring & Observability**
 
