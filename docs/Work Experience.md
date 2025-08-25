@@ -8,6 +8,8 @@ _November 2024 – Present_
 
 - Managed VMware vSphere ESXi to consolidate services and optimize infrastructure. Leveraged virtualization to deploy, clone, and migrate Windows and Linux servers, improving resource utilization and flexibility.
 
+- Manage user accounts, access permissions, and authentication policies across Microsoft 365
+
 - Monitored and maintained production and UAT servers, including patching, firmware updates and backups
 
 - Monitor, Setup and Deploy  ETP Linux servers  for new store openings
