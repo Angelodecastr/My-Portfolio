@@ -42,7 +42,7 @@
 # Active Directory Setup
 
 <p align="center">
-  <img src="../../Projectimg/Server Setup/active directory user.png"  alt="Server4" width="900"/> 
+  <img src="../../Projectimg/Server Setup/activedir.png"  alt="Server4" width="900"/> 
 </p>
 
 <p
