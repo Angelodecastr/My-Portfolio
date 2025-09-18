@@ -77,6 +77,8 @@ nav:
       - OpManager: Projects/OpMan.md
       - POS Remotely: Projects/Remotely.md
       - Uptime Kuma: Projects/Uptime.md
+      - Active Directory: Projects/ActiveDirectory.md
+      - NocoDB: Projects/NocoDB.md
   
 
   - Certifications:
