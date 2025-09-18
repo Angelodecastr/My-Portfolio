@@ -1,7 +1,7 @@
 # Active Directory
  
 <p align="center">
-  <img src="../../Projectimg/Server Setup/Server.png"  alt="Server1" width="1000"/>  
+  <img src="../../Projectimg/Server Setup/Server.png"  alt="Server1" width="900"/>  
 </p>
 
 
@@ -14,7 +14,7 @@
 # DNS Setup
 
 <p align="center">
-  <img src="../../Projectimg/Server Setup/DNS Setup.png"  alt="Server2" width="1000"/> 
+  <img src="../../Projectimg/Server Setup/DNS Setup.png"  alt="Server2" width="900"/> 
 </p>
 
 <p
@@ -28,7 +28,7 @@
 # DHCP Setup 
 
 <p align="center">
-  <img src="../../Projectimg/Server Setup/DHCP.png"  alt="Server3" width="1000"/> 
+  <img src="../../Projectimg/Server Setup/DHCP.png"  alt="Server3" width="900"/> 
 </p>
 
 <p
@@ -42,7 +42,7 @@
 # Active Directory Setup
 
 <p align="center">
-  <img src="../../Projectimg/Server Setup/active directory user.png"  alt="Server4" width="1000"/> 
+  <img src="../../Projectimg/Server Setup/active directory user.png"  alt="Server4" width="900"/> 
 </p>
 
 <p
@@ -56,7 +56,7 @@
 # Group Policy
 
 <p align="center">
-  <img src="../../Projectimg/Server Setup/Group Policy.png"  alt="Server5" width="1000"/> 
+  <img src="../../Projectimg/Server Setup/Group Policy.png"  alt="Server5" width="900"/> 
 </p>
 
 <p
@@ -70,7 +70,7 @@
 # File screen
 
 <p align="center">
-  <img src="../../Projectimg/Server Setup/File Screen.png"  alt="Server6" width="1000"/> 
+  <img src="../../Projectimg/Server Setup/File Screen.png"  alt="Server6" width="900"/> 
 </p>
 
 <p
@@ -87,7 +87,7 @@
 # User Account
 
 <p align="center">
-  <img src="../../Projectimg/Server Setup/user.png"  alt="Server7" width="1000"/> 
+  <img src="../../Projectimg/Server Setup/user.png"  alt="Server7" width="900"/> 
 </p>
 
 <p
