@@ -19,7 +19,6 @@
 
 <p
  style="text-align: left;">
-Txt
 </p>
 
 
