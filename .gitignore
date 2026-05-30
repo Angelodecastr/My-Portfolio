@@ -1,1 +1,7 @@
 venv
+site/
+.vscode/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
